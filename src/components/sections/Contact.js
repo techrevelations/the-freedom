@@ -12,7 +12,7 @@ const defaultProps = {
   ...SectionSplitProps.defaults
 }
 
-const FeaturesSplit = ({
+const Contact = ({
   className,
   topOuterDivider,
   bottomOuterDivider,
@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Learning Through Play',
-    paragraph: 'Fun for children and adults alike. Hands on. Teambuilding. The enjoyment of shared parenting.'
+    title: 'Contact Us',
+    paragraph: 'Whatsapp Us +55 21 99844 2012 or email us at bhbarbieri@googlemail.com'
   };
 
   return (
@@ -149,7 +149,7 @@ const FeaturesSplit = ({
   );
 }
 
-FeaturesSplit.propTypes = propTypes;
-FeaturesSplit.defaultProps = defaultProps;
+Contact.propTypes = propTypes;
+Contact.defaultProps = defaultProps;
 
-export default FeaturesSplit;
+export default Contact;
