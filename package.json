@@ -16,8 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/techrevelations/the-freedom.git",
-    "homepage": "https://the-freedom.herokuapp.com/"
+    "url": "https://github.com/techrevelations/the-freedom.git"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -41,6 +40,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ],
+    "homepage": "https://the-freedom.herokuapp.com/"
   }
 }
