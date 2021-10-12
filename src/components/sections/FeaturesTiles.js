@@ -179,7 +179,7 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-header">
                   <div className="features-tiles-item-image mb-16">
                     <Image
-                      src={Icon6)}
+                      src={Icon6}
                       alt="Features tile icon 06"
                       width={64}
                       height={64} />
