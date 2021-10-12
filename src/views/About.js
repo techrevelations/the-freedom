@@ -6,7 +6,7 @@ import Contact from '../components/sections/Contact';
 // import Testimonial from '../components/sections/Testimonial';
 import Cta from '../components/sections/Cta';
 
-const Home = () => {
+const About = () => {
 
   return (
     <>
@@ -19,4 +19,4 @@ const Home = () => {
   );
 }
 
-export default Home;
+export default About;

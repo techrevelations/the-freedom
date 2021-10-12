@@ -70,7 +70,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="/about">
+                  <Button tag="a" color="primary" wideMobile href="https://wa.me/5521998442012?text=I'm%20inquiring%20about%20the%20classes%20listed%20on%20your%20website">
                     WhatsApp Us
                     </Button>
                   <Button tag="a" color="dark" wideMobile href="/about">
