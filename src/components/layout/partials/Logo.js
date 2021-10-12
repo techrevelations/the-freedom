@@ -2,6 +2,7 @@ import React from 'react';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import Image from '../../elements/Image';
+import Peace_Logo from './../../../assets/images/peace3.png'
 
 const Logo = ({
   className,
@@ -21,7 +22,7 @@ const Logo = ({
       <h1 className="m-0">
         <Link to="/">
           <Image
-            src={require('./../../../assets/images/peace3.png')}
+            src={Peace_Logo}
             alt="Open"
             width={42}
             height={42} />
