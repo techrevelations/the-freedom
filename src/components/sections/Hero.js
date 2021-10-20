@@ -70,23 +70,23 @@ const Hero = ({
               The Freedom Sanctuary é um espaço educativo dedicado às famílias de Búzios. Oferecemos aulas semanais, meetups, baby groups, terapias entre outros. Temos como objetivo fortalecer a conexão entre pais e filhos e possibilitar que cada criança atinja seu maior potencial cognitivo e emocional para crescerem com auto confiança, autonomia e auto disciplina.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
+                <ButtonGroup >
                   
                       <Button tag="a" color="primary" wideMobile
                         href="https://wa.me/5521998442012?text=I'm%20inquiring%20about%20the%20classes%20listed%20on%20your%20website"
                       >
-                    WhatsApp Us
+                    WhatsApp
                     </Button>
                
-              <div>
-                      <Link to="eng">
-                      <Button tag="a" color="dark" wideMobile
-                      // href="https://github.com/techrevelations/the-freedom"
+              {/* <div wideMobile> */}
+                      {/* <Link to="eng" > */}
+                    <Button tag="a" color="dark" wideMobile
+                  href="/eng"
                       >
                   English Site
                     </Button>
-                      </Link>
-                </div>
+                      {/* </Link> */}
+                {/* </div> */}
                 </ButtonGroup>
               </div>
             </div>
