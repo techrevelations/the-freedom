@@ -20,7 +20,7 @@ const defaultProps = {
   bottomDivider: false
 }
 
-const Header = ({
+const HeaderEng = ({
   className,
   navPosition,
   hideNav,
@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="about" onClick={closeMenu}>Contacto</Link>
+                      <Link to="about" onClick={closeMenu}>Contact Us</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="https://github.com/techrevelations/the-freedom" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Recursos</Link>
+                        <Link to="https://github.com/techrevelations/the-freedom" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Resouces</Link>
                       </li>
                     </ul>}
                 </div>
@@ -132,7 +132,7 @@ const Header = ({
   );
 }
 
-Header.propTypes = propTypes;
-Header.defaultProps = defaultProps;
+HeaderEng.propTypes = propTypes;
+HeaderEng.defaultProps = defaultProps;
 
-export default Header;
+export default HeaderEng;

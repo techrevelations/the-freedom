@@ -67,7 +67,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                The Freedom Sanctuary is a hub for health and wellbeing for all the family in Armacao dos Buzios. Weekly Classes, Meetups, Baby Groups, Theropies and so much more.
+              The Freedom Sanctuary é um espaço educativo dedicado às famílias de Búzios. Oferecemos aulas semanais, meetups, baby groups, terapias entre outros. Temos como objetivo fortalecer a conexão entre pais e filhos e possibilitar que cada criança atinja seu maior potencial cognitivo e emocional para crescerem com auto confiança, autonomia e auto disciplina.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
@@ -79,7 +79,7 @@ const Hero = ({
                     </Button>
                
               <div>
-                      <Link to="br">
+                      <Link to="eng">
                       <Button tag="a" color="dark" wideMobile
                       // href="https://github.com/techrevelations/the-freedom"
                       >

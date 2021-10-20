@@ -15,7 +15,7 @@ const defaultProps = {
   ...SectionSplitProps.defaults
 }
 
-const FeaturesSplit = ({
+const FeaturesSplitEng = ({
   className,
   topOuterDivider,
   bottomOuterDivider,
@@ -73,10 +73,10 @@ const FeaturesSplit = ({
                   Transformational Parenting
                   </div>
                 <h3 className="mt-0 mb-12">
-                Conecte e se Comunique
+                  Connect and Communicate
                   </h3>
                 <p className="m-0">
-                Descubra os segredos de um relacionamento saudável com seus filhos. Comunicação sem estres e uma conexão de respeito e confiança.
+                  Discover the secrets to parenting. Stress free communication and a shared bond of trust. 
                   </p>
               </div>
               <div className={
@@ -96,13 +96,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                Assumam controle
+                  Taking Control
                   </div>
                 <h3 className="mt-0 mb-12">
                   A Shared Experience
                   </h3>
                 <p className="m-0">
-                A maternidade é uma experiência engrandecedora. Como a maioria das coisas, nos colhemos o que plantamos. Aprendendo a se comunicar através de uma linguagem de sinais
+                  Parenting can be a hugely rewarding experience. Like most things, you get out, what your put in. From learning to sign, t
                   </p>
               </div>
               <div className={
@@ -122,13 +122,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                Imaginação e Criatividade
+                  Imagination and Creativity
                   </div>
                 <h3 className="mt-0 mb-12">
-                O céu é o limite
+                  Touch The Sky
                   </h3>
                 <p className="m-0">
-                Brincar com criatividade. Convidamos os pequenos a explorar seus sentidos e damos a oportunidade de descobrir e criar com liberdade. 
+                  Creative play. We give little ones that chance to explore their body. To exercise freedom to explore and create.
                   </p>
               </div>
               <div className={
@@ -152,7 +152,7 @@ const FeaturesSplit = ({
   );
 }
 
-FeaturesSplit.propTypes = propTypes;
-FeaturesSplit.defaultProps = defaultProps;
+FeaturesSplitEng.propTypes = propTypes;
+FeaturesSplitEng.defaultProps = defaultProps;
 
-export default FeaturesSplit;
+export default FeaturesSplitEng;
