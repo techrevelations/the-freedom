@@ -79,13 +79,13 @@ const Hero = ({
                     </Button>
                
               {/* <div wideMobile> */}
-                      {/* <Link to="eng" > */}
+                      <Link to="eng" className="button-wide-mobile" >
                     <Button tag="a" color="dark" wideMobile
                   href="/eng"
                       >
                   English Site
                     </Button>
-                      {/* </Link> */}
+                      </Link>
                 {/* </div> */}
                 </ButtonGroup>
               </div>

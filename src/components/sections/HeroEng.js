@@ -79,7 +79,7 @@ const HeroEng = ({
                     </Button>
                
               <div>
-                      <Link to="/">
+                      <Link to="/" className="button-wide-mobile" >
                       <Button tag="a" color="dark" wideMobile
                       // href="https://github.com/techrevelations/the-freedom"
                       >
