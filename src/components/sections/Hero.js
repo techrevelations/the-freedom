@@ -78,7 +78,7 @@ const Hero = ({
                     WhatsApp
                     </Button>
                
-              {/* <div wideMobile> */}
+              
                       <Link to="eng" className="button-wide-mobile" >
                     <Button tag="a" color="dark" wideMobile
                   href="/eng"
@@ -86,7 +86,7 @@ const Hero = ({
                   English Site
                     </Button>
                       </Link>
-                {/* </div> */}
+             
                 </ButtonGroup>
               </div>
             </div>

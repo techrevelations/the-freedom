@@ -77,16 +77,13 @@ const HeroEng = ({
                       >
                     WhatsApp Us
                     </Button>
-               
-              <div>
-                      <Link to="/" className="button-wide-mobile" >
+                      <Link to="/" className="button-wide-mobile">
                       <Button tag="a" color="dark" wideMobile
                       // href="https://github.com/techrevelations/the-freedom"
                       >
                   Português
                     </Button>
                       </Link>
-                </div>
                 </ButtonGroup>
               </div>
             </div>
