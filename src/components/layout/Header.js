@@ -112,7 +112,7 @@ const Header = ({
                       navPosition && `header-nav-${navPosition}`
                     )}>
                     <li>
-                      <Link to="#about" onClick={closeMenu}>Contact Us</Link>
+                      <Link to="about" onClick={closeMenu}>Contact Us</Link>
                     </li>
                   </ul>
                   {!hideSignin &&
@@ -120,7 +120,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="/br" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Português</Link>
+                        <Link to="https://github.com/techrevelations/the-freedom" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Resouces</Link>
                       </li>
                     </ul>}
                 </div>

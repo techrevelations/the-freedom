@@ -1,6 +1,7 @@
 import React from 'react';
 // import sections
-import Hero from '../components/sections/Hero';
+import Header from '../components/layout/Header';
+import HeroEng from '../components/sections/HeroEng';
 // import FeaturesTiles from '../components/sections/FeaturesTiles';
 // import FeaturesSplit from '../components/sections/FeaturesSplit';
 // import Testimonial from '../components/sections/Testimonial';
@@ -11,7 +12,8 @@ const Casa = () => {
 
   return (
     <>
-      <Hero className="illustration-section-01" />
+      <Header navPosition="right" className="reveal-from-bottom" />
+      <HeroEng className="illustration-section-01" />
       {/* <FeaturesTiles /> */}
       {/* <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02" />
       <Testimonial topDivider />

@@ -5,11 +5,13 @@ import FeaturesTiles from '../components/sections/FeaturesTiles';
 import FeaturesSplit from '../components/sections/FeaturesSplit';
 import Testimonial from '../components/sections/Testimonial';
 import Cta from '../components/sections/Cta';
+import Header from '../components/layout/Header';
 
 const Home = () => {
 
   return (
     <>
+      <Header navPosition="right" className="reveal-from-bottom" />
       <Hero className="illustration-section-01" />
       <FeaturesTiles />
       <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02" />

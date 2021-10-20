@@ -16,7 +16,7 @@ const defaultProps = {
   ...SectionProps.defaults
 }
 
-const Hero = ({
+const HeroEng = ({
   className,
   topOuterDivider,
   bottomOuterDivider,
@@ -79,11 +79,11 @@ const Hero = ({
                     </Button>
                
               <div>
-                      <Link to="br">
+                      <Link to="/">
                       <Button tag="a" color="dark" wideMobile
                       // href="https://github.com/techrevelations/the-freedom"
                       >
-                  English Site
+                  Português
                     </Button>
                       </Link>
                 </div>
@@ -118,7 +118,7 @@ const Hero = ({
   );
 }
 
-Hero.propTypes = propTypes;
-Hero.defaultProps = defaultProps;
+HeroEng.propTypes = propTypes;
+HeroEng.defaultProps = defaultProps;
 
-export default Hero;
+export default HeroEng;
