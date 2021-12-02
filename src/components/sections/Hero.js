@@ -67,13 +67,14 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              The Freedom Sanctuary é um espaço educativo dedicado às famílias de Búzios. Oferecemos aulas semanais, meetups, baby groups, terapias entre outros. Temos como objetivo fortalecer a conexão entre pais e filhos e possibilitar que cada criança atinja seu maior potencial cognitivo e emocional para crescerem com auto confiança, autonomia e auto disciplina.
+              Um centro internacional de aprendizagem criado especialmente para as famílias de Búzios. 
+Venham conhecer nossas aulas em grupo e particulares para bebês, crianças e adultos.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup >
                   
                       <Button tag="a" color="primary" wideMobile
-                        href="https://wa.me/5521998442012?text=I'm%20inquiring%20about%20the%20classes%20listed%20on%20your%20website"
+                        href="https://wa.me/5521998442012?text=Oi%20gostaría%20de%20saber%20mais%20informações%20sobre%20as%20aulas"
                       >
                     WhatsApp
                     </Button>

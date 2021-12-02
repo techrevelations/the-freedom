@@ -53,8 +53,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Learning Through Play',
-    paragraph: 'Fun for children and adults alike. Hands on. Teambuilding. The enjoyment of shared parenting.'
+    title: 'Aprendendo Brincando',
+    paragraph: 'Os alunos conseguem melhores resultados através de atividades projetadas para serem alegres, imaginativas e lúdicas. Elas ajudam a desenvolver habilidades sociais e cognitivas, maturidade emocional e ganhar a autoconfiança necessária para se engajar em novas atividades e novos ambientes.'
   };
 
   return (
@@ -70,13 +70,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Transformational Parenting
+                Parentalidade Generativa
                   </div>
                 <h3 className="mt-0 mb-12">
-                Conecte e se Comunique
+                Compartilhando Experiencias
                   </h3>
                 <p className="m-0">
-                Descubra os segredos de um relacionamento saudável com seus filhos. Comunicação sem estres e uma conexão de respeito e confiança.
+                A relação que criamos com nossos filhos agora será a base para nossa relação com eles quando adultos. As aulas ajudam você a se engajar no desenvolvimento do seu filho dentro e fora da classe.
+
                   </p>
               </div>
               <div className={
@@ -96,13 +97,14 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                Assumam controle
+                Abordagem Multidisciplinar
                   </div>
                 <h3 className="mt-0 mb-12">
-                  A Shared Experience
+                Conexão e Comunicação
+
                   </h3>
                 <p className="m-0">
-                A maternidade é uma experiência engrandecedora. Como a maioria das coisas, nos colhemos o que plantamos. Aprendendo a se comunicar através de uma linguagem de sinais
+                A exposição precoce ao aprendizado de idiomas ajuda você a entender as necessidades, pensamentos e ideias do seu filho. As aulas auxiliam a criar confiança na criança e no estímulo do seu desenvolvimento emocional e intelectual.
                   </p>
               </div>
               <div className={
@@ -122,13 +124,13 @@ const FeaturesSplit = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                Imaginação e Criatividade
+                Uma Arte e Uma Ciência
                   </div>
                 <h3 className="mt-0 mb-12">
-                O céu é o limite
+                Sobressaia-se No Que Desejar
                   </h3>
                 <p className="m-0">
-                Brincar com criatividade. Convidamos os pequenos a explorar seus sentidos e damos a oportunidade de descobrir e criar com liberdade. 
+                Dominar uma habilidade requer determinação, resiliência, auto motivação, concentração e confiança. Com base nas mais recentes informações científicas e métodos internacionais, as aulas são projetadas exclusivamente para nutrir a paixão pela aprendizagem.
                   </p>
               </div>
               <div className={

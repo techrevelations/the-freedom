@@ -51,7 +51,7 @@ const FeaturesTilesEng = ({
 
   const sectionHeader = {
     title: 'Proud To Be Different',
-    paragraph: 'We support parents, practitionors and care givers who value community, independence and freedom. To give them the confidence, skill and resources they need to facilitate happy and healthy environments for our children. Try one of our weekly sessions or message us to find out more.'
+    paragraph: 'We support parents, practitioners and care givers who value community, independence and learning through play. To give them the confidence, skills and resources they need to succeed. Try one of our weekly sessions or message us to find out more'
   };
 
   return (
@@ -80,7 +80,7 @@ const FeaturesTilesEng = ({
                     Baby Signing
                     </h4>
                   <p className="m-0 text-sm">
-                    Scientifically proven to increase intelligence. Baby sign language creates a unique bond and shared understanding between you and your baby.
+                    Scientifically proven to increase intelligence. Baby sign language creates a unique bond and shared understanding between you and your baby
                     </p>
                 </div>
               </div>
@@ -99,10 +99,10 @@ const FeaturesTilesEng = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Forest School
+                  Beach Explorers
                     </h4>
                   <p className="m-0 text-sm">
-                    Discover the wonders and beauty of our natural environment through guided exploration, activities and games. Fresh air adventures and surprises every time.
+                    Discover the wonders and beauty of our natural environment through guided exploration, activities and games. Fresh air adventures and surprises every time
                     </p>
                 </div>
               </div>
@@ -121,10 +121,10 @@ const FeaturesTilesEng = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Baby Yoga
+                  Business English
                     </h4>
                   <p className="m-0 text-sm">
-                    Exercise together with your baby. Peaceful stretching which supports post natal recovery, core strength building and lifts your energy through the whole day. 
+                  Private English lessons with a native English coach. Tailored to meet your personal and professional goals and suppliment your language learning
                     </p>
                 </div>
               </div>
@@ -143,10 +143,10 @@ const FeaturesTilesEng = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Tiny Talk
+                  Little University
                     </h4>
                   <p className="m-0 text-sm">
-                    Learn English, German or Spanish through role playing, slap stick fun and games. Inspire children with sing songs and nursary rhymes, a little bit of everything really.
+                  Captivating stories in English each week that help children interact, learn to love the library and those valuable early literacy skills
                     </p>
                 </div>
               </div>
@@ -168,7 +168,7 @@ const FeaturesTilesEng = ({
                     Sensory Baby Massage
                     </h4>
                   <p className="m-0 text-sm">
-                    Awaken your babies senses with a unique range of sensory pleasures. Learn calming bedtime routines through the joys of practicing massage. Guarenteed to make you smile.
+                    Awaken your babies senses with a unique range of sensory pleasures. Learn calming bedtime routines through the joys of practicing massage
                     </p>
                 </div>
               </div>
@@ -187,10 +187,10 @@ const FeaturesTilesEng = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Messy Play
+                  Rhyme Time
                     </h4>
                   <p className="m-0 text-sm">
-                    A space to let kids go wild without the stressful cleanup. Capture moments of their creative flair as they explore their senses and imaginations. 
+                    Nursary rhymes to sing, dance and play along. Fun filled activities which help with speach development, language acquisition and auditory skills
                     </p>
                 </div>
               </div>

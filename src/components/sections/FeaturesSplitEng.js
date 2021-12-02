@@ -54,7 +54,7 @@ const FeaturesSplitEng = ({
 
   const sectionHeader = {
     title: 'Learning Through Play',
-    paragraph: 'Fun for children and adults alike. Hands on. Teambuilding. The enjoyment of shared parenting.'
+    paragraph: 'Learners achieve better outcomes through focussed activities designed to be joyful, imaginative and playful. These help to develop social and cognitive skills, emotional maturity and gain the self confidence required to engage in new experiences and environments'
   };
 
   return (
@@ -70,13 +70,13 @@ const FeaturesSplitEng = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Transformational Parenting
+                A Shared Experience
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Connect and Communicate
+                Transformative Parenting
                   </h3>
                 <p className="m-0">
-                  Discover the secrets to parenting. Stress free communication and a shared bond of trust. 
+                The relationship we create with our children now will be the foundation for our relationship with them as adults. Classes help you to engage in your child's development inside and out of the class.
                   </p>
               </div>
               <div className={
@@ -96,13 +96,14 @@ const FeaturesSplitEng = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Taking Control
+                A Multidisciplinary Approach
                   </div>
                 <h3 className="mt-0 mb-12">
-                  A Shared Experience
+                Connect and Communicate
                   </h3>
                 <p className="m-0">
-                  Parenting can be a hugely rewarding experience. Like most things, you get out, what your put in. From learning to sign, t
+                  Early exposure to language learning helps you to understand your child's needs, thoughts and ideas.
+                  Classes assist in building confidence and stimulating their emotional and intellectual development.
                   </p>
               </div>
               <div className={
@@ -122,13 +123,13 @@ const FeaturesSplitEng = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  Imagination and Creativity
+                  An Art And A Science
                   </div>
                 <h3 className="mt-0 mb-12">
-                  Touch The Sky
+                  Excel at Anything
                   </h3>
                 <p className="m-0">
-                  Creative play. We give little ones that chance to explore their body. To exercise freedom to explore and create.
+                  Mastering a skill requires determination, resilience, self motivation, concentration and confidence. Based on the latest scientific information and international methods, classes are uniquely designed to nurture the passion for learning.
                   </p>
               </div>
               <div className={

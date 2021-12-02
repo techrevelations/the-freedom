@@ -67,7 +67,7 @@ const HeroEng = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                The Freedom Sanctuary is a hub for health and wellbeing for all the family in Armacao dos Buzios. Weekly Classes, Meetups, Baby Groups, Theropies and so much more.
+                The Freedom Sanctuary is a hub for health and wellbeing for all the family in Armacao dos Buzios. Private and group classes that develop the love of learning.
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

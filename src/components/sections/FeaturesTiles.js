@@ -50,8 +50,8 @@ const FeaturesTiles = ({
   );
 
   const sectionHeader = {
-    title: 'Proud To Be Different',
-    paragraph: 'We support parents, practitionors and care givers who value community, independence and freedom. To give them the confidence, skill and resources they need to facilitate happy and healthy environments for our children. Try one of our weekly sessions or message us to find out more.'
+    title: 'Orgulho de ser diferente',
+    paragraph: 'Apoiamos pais, educadores  e familiares que valorizam a comunidade, a independência e a aprendizagem através do jogo. Para dar à criança confiança, habilidades e recursos que eles precisam para terem sucesso. Experimente uma de nossas sessões semanais ou nos envie uma mensagem para saber mais.'
   };
 
   return (
@@ -77,10 +77,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Baby Signing
+                  Bebês falam com Sinais
                     </h4>
                   <p className="m-0 text-sm">
-                    Scientifically proven to increase intelligence. Baby sign language creates a unique bond and shared understanding between you and your baby.
+                  Cientificamente comprovado que aumenta a inteligência do bebê a curto e a longo prazo,  o uso da linguagem de sinais com o bebê cria um vínculo único de compreensão entre você e seu bebê
                     </p>
                 </div>
               </div>
@@ -99,10 +99,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Forest School
+                  Pequenos Exploradores
                     </h4>
                   <p className="m-0 text-sm">
-                    Discover the wonders and beauty of our natural environment through guided exploration, activities and games. Fresh air adventures and surprises every time.
+                  Descubra as maravilhas e belezas do nosso ambiente natural através da exploração guiada, atividades e jogos. Muitas aventuras e surpresas do ar livre
                     </p>
                 </div>
               </div>
@@ -121,10 +121,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Baby Yoga
+                  Inglês para Negócios
                     </h4>
                   <p className="m-0 text-sm">
-                    Exercise together with your baby. Peaceful stretching which supports post natal recovery, core strength building and lifts your energy through the whole day. 
+                  Aulas particulares de inglês com professor nativo. Adaptadas para atender seus objetivos pessoais e profissionais
                     </p>
                 </div>
               </div>
@@ -143,10 +143,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Tiny Talk
+                  Pequena Universidade
                     </h4>
                   <p className="m-0 text-sm">
-                    Learn English, German or Spanish through role playing, slap stick fun and games. Inspire children with sing songs and nursary rhymes, a little bit of everything really.
+                  Histórias cativantes em inglês a cada semana ajudam as crianças a interagir, aprender e a amar a leitura e desenvolver as competências essenciais de literacia na primeira infância
                     </p>
                 </div>
               </div>
@@ -165,10 +165,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Sensory Baby Massage
+                  Massagem de Bebê
                     </h4>
                   <p className="m-0 text-sm">
-                    Awaken your babies senses with a unique range of sensory pleasures. Learn calming bedtime routines through the joys of practicing massage. Guarenteed to make you smile.
+                  Desperte os sentidos de seu bebê com uma gama única de descobertas sensoriais. Aprenda a acalmar as rotinas de dormir através de uma massagem
                     </p>
                 </div>
               </div>
@@ -187,10 +187,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Messy Play
+                  Hora de Cantar
                     </h4>
                   <p className="m-0 text-sm">
-                    A space to let kids go wild without the stressful cleanup. Capture moments of their creative flair as they explore their senses and imaginations. 
+                  Canções infantis em Inglês para cantar, dançar e brincar. Atividades repletas de diversão que ajudam no desenvolvimento da fala, habilidades auditivas e aquisição linguística
                     </p>
                 </div>
               </div>

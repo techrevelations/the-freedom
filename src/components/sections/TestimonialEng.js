@@ -11,7 +11,7 @@ const defaultProps = {
   ...SectionTilesProps.defaults
 }
 
-const Testimonial = ({
+const TestimonialEng = ({
   className,
   topOuterDivider,
   bottomOuterDivider,
@@ -44,8 +44,8 @@ const Testimonial = ({
   );
 
   const sectionHeader = {
-    title: 'Comentarios',
-    paragraph: 'Estamos crescendo e melhorando a cada dia. Para isso, pedimos feedback, escutamos e adaptamos nossos processos. Aqui estão algumas coisas boas que as pessoas disseram até agora.'
+    title: 'Testimonials',
+    paragraph: 'We are growing and improving every day. To do that, we ask for feedback, listen and adapt our processes. Here are some nice things people have said so far.'
   };
 
   return (
@@ -62,14 +62,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Beatriz gerencia aulas com habilidade, cuidado e atenção. Admiro como minha filha progrediu no inglês sem perceber que está estudando um novo idioma. Ela adora as aulas que são diferentes do que conhecia do Brasil e eu as recomendo para outros pais.
+                    — Beatriz has managed classes with skill, care and attention. We have been encouraged with how quickly our child has progressed and how impressed other parents are with her language skills. I highly recommend her unique classes.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Paulina</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Pais</a>
+                    <a href="#0">Hotel Owner in Buzios</a>
                   </span>
                 </div>
               </div>
@@ -79,14 +79,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Beatriz é carinhosa e gentil. Com um profundo senso de compreensão e consciência de como nosso filho pensa e se sente. Ela é capaz de navegar em um grupo com habilidade e capturar a atenção de seu público. Ela tem um dom especial e eu recomendo aos outros. 
+                    — Beatriz is caring and kind. With a deep sense of understanding and awareness of how our little one thinks and feels. She is able to navigate a group with skill and in complete ore from her audience. She has a special gift and I fully recommend it to others.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Maria Graça</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Advogada</a>
+                    <a href="#0">Lawyer</a>
                   </span>
                 </div>
               </div>
@@ -96,14 +96,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — As crianças são nosso futuro. Estou impressionado que você nunca se esquiva de tentar coisas novas e se aprofundar na pesquisa e ciência por trás da pedagogia. É uma delícia e honra conhecê-la como um amigo.
+                    — Children are our future. I am impressed you never shy away from trying new things and delving deeply into the research and science behind the pedagogy. It is a delight and honour to know you as a friend.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Liliani Da Silva</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">Psicologa Infantil e Membro da Diretoria de Escola</a>
+                    <a href="#0">School Director and Child Psychologist</a>
                   </span>
                 </div>
               </div>
@@ -116,7 +116,7 @@ const Testimonial = ({
   );
 }
 
-Testimonial.propTypes = propTypes;
-Testimonial.defaultProps = defaultProps;
+TestimonialEng.propTypes = propTypes;
+TestimonialEng.defaultProps = defaultProps;
 
-export default Testimonial;
+export default TestimonialEng;
