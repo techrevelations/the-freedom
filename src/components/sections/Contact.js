@@ -2,7 +2,6 @@ import React from 'react';
 import classNames from 'classnames';
 import { SectionSplitProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
-import Image from '../elements/Image';
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -42,12 +41,6 @@ const Contact = ({
     bottomDivider && 'has-bottom-divider'
   );
 
-  const splitClasses = classNames(
-    'split-wrap',
-    invertMobile && 'invert-mobile',
-    invertDesktop && 'invert-desktop',
-    alignTop && 'align-top'
-  );
 
   const sectionHeader = {
     title: 'Contact Us',
